@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\bin\Debug\net6.0\Week4whileLoop.exe
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\bin\Debug\net6.0\Week4whileLoop.deps.json
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\bin\Debug\net6.0\Week4whileLoop.runtimeconfig.json
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\bin\Debug\net6.0\Week4whileLoop.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\bin\Debug\net6.0\Week4whileLoop.pdb
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\refint\Week4whileLoop.dll
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.pdb
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\Week4whileLoop.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\Week4Loops\Week4whileLoop\Week4whileLoop\obj\Debug\net6.0\ref\Week4whileLoop.dll
